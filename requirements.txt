@@ -1,0 +1,11 @@
+ipython==7.31.1
+matplotlib==3.6.2
+mne==1.1.1
+numpy==1.23.5
+pandas==1.5.3
+rich==13.7.0
+rockpool.egg==info
+scipy==1.11.4
+sinabs==1.0.1
+torch==1.13.1+cpu
+tqdm==4.64.1
