@@ -1,0 +1,11 @@
+import numpy as np
+import matplotlib.pyplot as plt
+a = np.random.rand(2,5)
+b = np.random.rand(2,5)
+array = []
+array.append(a)
+array.append(b)
+array1 = np.asarray(array)
+print(array1)
+s = np.mean(array1,axis=0)
+print(s)
